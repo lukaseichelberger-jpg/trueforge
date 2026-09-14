@@ -5,7 +5,7 @@ description: Führt durch den unternehmensspezifischen Ablauf des Bewohnereintri
 
 # Bewohnereintritt
 
-Diese Skill bildet den kompletten, unternehmensspezifischen Ablauf für den Eintritt einer neuen Bewohnerin/eines neuen Bewohners ab. Sie liefert eine strukturierte Checkliste im Chat und kann bei Bedarf einzelne Schritte (E-Mails, Kalendereinladungen) direkt als Entwurf ausformulieren.
+Diese Skill bildet den kompletten, unternehmensspezifischen Ablauf für den Eintritt einer neuen Bewohnerin/eines neuen Bewohners ab. Sie liefert eine strukturierte Checkliste im Chat und kann bei Bedarf einzelne Schritte direkt als Entwurf ausformulieren.
 
 ## Referenzdokumente
 
@@ -17,7 +17,7 @@ Diese Skill bildet den kompletten, unternehmensspezifischen Ablauf für den Eint
 Wenn nach dem Bewohnereintritt gefragt wird, die folgenden Schritte **in dieser Reihenfolge** als Checkliste ausgeben (Markdown, `- [ ]`). Verantwortlichkeit/Adressat in Klammern angeben. Auf Wunsch einzelne Schritte direkt als Textentwurf liefern.
 
 ### 1. Erstkontakt & Informationsbeschaffung
-- [ ] Nachricht an die neu eintretende Person bzw. deren rechtliche Vertretung senden und die Angaben gemäss Anmeldeformular abfragen (Personalien, Angehörige/Bezugspersonen, Hausarzt, Krankenkasse, Finanzielles, Patientenverfügung/Vorsorgeauftrag/Vollmacht, gewünschter Eintritt, Zimmerwunsch)
+- [ ] Nachricht an die neu eintretende Person bzw. deren rechtliche Vertretung via Slack senden und die Angaben gemäss Anmeldeformular abfragen (Personalien, Angehörige/Bezugspersonen, Hausarzt, Krankenkasse, Finanzielles, Patientenverfügung/Vorsorgeauftrag/Vollmacht, gewünschter Eintritt, Zimmerwunsch)
 
 ### 2. Vertrag
 - [ ] Sobald die Angaben vorliegen: Nachricht an die Heimadministration (Slack ID: U0C2KN8RR96) dass der Heimvertrag ausgestellt werden kann und dieser von der rechtlichen Vertretung zu unterzeichnen ist.
