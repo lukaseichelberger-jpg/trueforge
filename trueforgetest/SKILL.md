@@ -1,11 +1,11 @@
 ---
 name: bewohnereintritt
-description: Führt durch den unternehmensspezifischen Ablauf des Bewohnereintritts (Aufnahmeprozess) im Alters-/Pflegeheim – von der Erstanfrage bei der eintretenden Person/deren Vertretung über Vertrag, interne Nachrichten (Administration, Lobos-Erfassung, Bewohnerstammblatt, Konfession), Kalendereinladungen bis zu den mit Angehörigen zu klärenden Punkten (Rechnung, Arzt, Krankenkasse, Post, Wäsche, TV/Radio, Telefon/Internet, Fotos/Videos, Taschengeld, Versicherung). Nutze diese Skill wenn ein Neueintritt bearbeitet werden soll.
+description: Instruktionen zum unternehmensspezifischen Ablauf des Bewohnereintritts (Aufnahmeprozess) im Alters-/Pflegeheim – Prozess wird immer von der Heimadministration ausgelöst. Das System beschreibt was im Zusammenhang mit einem Neueintritt alles geamcht werden muss: interne Nachrichten (Administration, Lobos-Erfassung, Bewohnerstammblatt, Konfession), Kalendereinladungen bis zu den mit Angehörigen zu klärenden Punkten (Rechnung, Arzt, Krankenkasse, Post, Wäsche, TV/Radio, Telefon/Internet, Fotos/Videos, Taschengeld, Versicherung). Nutze diese Skill wenn ein Neueintritt bearbeitet werden soll.
 ---
 
 # Bewohnereintritt
 
-Diese Skill bildet den kompletten, unternehmensspezifischen Ablauf für den Eintritt einer neuen Bewohnerin/eines neuen Bewohners ab. Sie liefert eine strukturierte Checkliste im Chat und kann bei Bedarf einzelne Schritte direkt als Entwurf ausformulieren.
+Diese Skill bildet den kompletten, unternehmensspezifischen Ablauf für den Eintritt einer neuen Bewohnerin/eines neuen Bewohners ab. Sie liefert Instruktionen anhand welcher der Agent eine strukturierte Checkliste erstellen und möglichst eigenständig abarbeiten kann. Fehlende Informationen erfragt er gemäss Instruktionen der Skill bei den jeweilig zuständigen Personen.
 
 ## Referenzdokumente
 
@@ -14,7 +14,7 @@ Diese Skill bildet den kompletten, unternehmensspezifischen Ablauf für den Eint
 
 ## Ablauf
 
-Wenn nach dem Bewohnereintritt gefragt wird, die folgenden Schritte **in dieser Reihenfolge** als Checkliste ausgeben (Markdown, `- [ ]`). Verantwortlichkeit/Adressat in Klammern angeben. Auf Wunsch einzelne Schritte direkt als Textentwurf liefern.
+Wenn der Administrator den Auftrag gibt einen Eintritt zu bearbeiten, die folgenden Schritte **in dieser Reihenfolge** abarbeiten (Markdown, `- [ ]`). Fehlende Informationen bei den relevanten Personen einholen.
 
 ### 1. Erstkontakt & Informationsbeschaffung
 - [ ] Nachricht an die neu eintretende Person bzw. deren rechtliche Vertretung via Slack senden und die Angaben gemäss Anmeldeformular abfragen (Personalien, Angehörige/Bezugspersonen, Hausarzt, Krankenkasse, Finanzielles, Patientenverfügung/Vorsorgeauftrag/Vollmacht, gewünschter Eintritt, Zimmerwunsch)
