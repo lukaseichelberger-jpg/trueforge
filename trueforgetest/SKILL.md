@@ -1,6 +1,6 @@
 ---
 name: bewohnereintritt
-description: Instruktionen zum unternehmensspezifischen Ablauf des Bewohnereintritts (Aufnahmeprozess) im Alters-/Pflegeheim – Prozess wird immer von der Heimadministration ausgelöst. Das System beschreibt was im Zusammenhang mit einem Neueintritt alles geamcht werden muss: interne Nachrichten (Administration, Lobos-Erfassung, Bewohnerstammblatt, Konfession), Kalendereinladungen bis zu den mit Angehörigen zu klärenden Punkten (Rechnung, Arzt, Krankenkasse, Post, Wäsche, TV/Radio, Telefon/Internet, Fotos/Videos, Taschengeld, Versicherung). Nutze diese Skill wenn ein Neueintritt bearbeitet werden soll.
+description: Instruktionen zur Bearbeitung von Neueintritten von Bewohnenden im Altersheim St. Otmar in St. Gallen. Nutze diese Skill wenn ein Neueintritt bearbeitet werden soll / eine neue Person in das Heim eintritt.
 ---
 
 # Bewohnereintritt
@@ -9,23 +9,25 @@ Diese Skill bildet den kompletten, unternehmensspezifischen Ablauf für den Eint
 
 ## Referenzdokumente
 
-- `assets/Anmeldeformular.pdf` – Anmeldeformular mit allen bei der eintretenden Person/deren Vertretung abzufragenden Feldern (Personalien, Angehörige/Bezugspersonen, Hausarzt, Krankenkasse, Finanzielles, Patientenverfügung/Vorsorgeauftrag/Vollmacht, Aufenthalt vor Eintritt, Zimmerwunsch, Wünsche).
-- `assets/mailvorlagen.md` – Vorformulierte Standard-Nachrichten und Kalendereinladungen für alle unten genannten Kommunikationsschritte (Erstanfrage, Administration/Lobos, Bewohnerstammblatt, Konfession, Kalendereinladung Eintrittstag, Kalendereintrag Angehörigenbefragung). **Bei jedem dieser Schritte diese Vorlage laden und mit den bekannten Angaben ausgefüllt als versandfertigen Text ausgeben** – nicht neu formulieren.
+- `assets/Anmeldeformular.pdf` – Formular mit den Informationen, welche für einen Eintritt ins Pflegeheim vorhanden sein müssen.
+- `assets/mailvorlagen.md` – Vorformulierte Standard-Nachrichten und Kalendereinladungen für alle unten genannten Kommunikationsschritte. **Bei jedem dieser Schritte diese Vorlage laden und mit den bekannten Angaben ausgefüllt als versandfertigen Text ausgeben** – nicht neu formulieren.
 
 ## Ablauf
 
-Wenn der Administrator den Auftrag gibt einen Eintritt zu bearbeiten, die folgenden Schritte **in dieser Reihenfolge** abarbeiten (Markdown, `- [ ]`). Fehlende Informationen bei den relevanten Personen einholen.
+Ein Administrator weist den Agenten an einen Eintritt zu bearbeiten. Anschliessend müssen folgende Schritte **in dieser Reihenfolge** abgearbeitet werden. (Markdown, `- [ ]`). Fehlende Informationen müssen bei den relevanten Personen einholen.
 
-### 1. Erstkontakt & Informationsbeschaffung
-- [ ] Nachricht an die neu eintretende Person bzw. deren rechtliche Vertretung via Slack senden und die Angaben gemäss Anmeldeformular abfragen (Personalien, Angehörige/Bezugspersonen, Hausarzt, Krankenkasse, Finanzielles, Patientenverfügung/Vorsorgeauftrag/Vollmacht, gewünschter Eintritt, Zimmerwunsch)
+### 1. Informationsbeschaffung
+- [ ] Nachricht an die neu eintretende Person bzw. deren rechtliche Vertretung senden und die Informationen gemäss "Anmeldeformular.pdf" abfragen.
+- [ ] Prüfung ob alle Angaben vorliegen. Bei Bedarf fehlende Informationen erfragen.
 
-### 2. Vertrag
-- [ ] Sobald die Angaben vorliegen: Nachricht an die Heimadministration (Slack ID: U0C2KN8RR96) dass der Heimvertrag ausgestellt werden kann und dieser von der rechtlichen Vertretung zu unterzeichnen ist.
+### 2. Informationsverbreitung / Verarbeitung
+Sobald die Informationen vorliegen:
+- [ ] Nachricht an den Administrator mit Hinweis auf allenfalls fehlende Informationen und Instruktion, dass er einen Heimvertrag austellen soll und dieser vom Bewohnenden respektive dessen rechtlichen Vertretung zu unterzeichnen ist.
+- [ ] Nachricht an den Administrator mit Instruktion, die Bewohnerdaten in Lobos zu erfassen
+- [ ] Bewohnerstammblatt ausfüllen und anschliessend an die Apotheke am Gürbisbach senden.
 
 ### 3. Interne Erfassung & Meldungen
-- [ ] Nachricht an Administration (Slack ID: U0C2KN8RR96) mit der Instruktion, die Bewohnerdaten in Lobos zu erfassen und auszudrucken
-- [ ] Bewohnerstammblatt senden an **Slack ID: U0C1A03RNLX**
-- [ ] Konfession separat senden an **Slack ID: U0C1A03RNLX**
+- [ ] Konfession separat senden an
 
 ### 4. Kalendereinladungen
 - [ ] Kalendereinladung für den Eintrittstag erstellen und an Wohngruppenleitung, Wohngruppe, Pflegedienstleitung und Administration senden
