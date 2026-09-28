@@ -25,10 +25,8 @@ Sobald die Informationen vorliegen:
 - [ ] Nachricht an den Administrator mit Hinweis auf allenfalls fehlende Informationen und Instruktion, dass er einen Heimvertrag austellen soll und dieser vom Bewohnenden respektive dessen rechtlichen Vertretung zu unterzeichnen ist.
 - [ ] Nachricht an den Administrator mit Instruktion, die Bewohnerdaten in Lobos zu erfassen
 - [ ] Bewohnerstammblatt ausfüllen und anschliessend an die Apotheke am Gürbisbach senden.
-
-### 3. Interne Erfassung & Meldungen
-- [ ] Konfession separat senden an
-
+- [ ] Zuständigen Seelsorger über die Konfession des Bewohnenden informieren.
+      
 ### 4. Kalendereinladungen
 - [ ] Kalendereinladung für den Eintrittstag erstellen und an Wohngruppenleitung, Wohngruppe, Pflegedienstleitung und Administration senden
 - [ ] Kalendereintrag für die Angehörigenbefragung erstellen, terminiert auf 3 Monate nach dem Eintritt
