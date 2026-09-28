@@ -16,37 +16,39 @@ Diese Skill bildet den kompletten, unternehmensspezifischen Ablauf für den Eint
 
 Ein Administrator weist den Agenten an einen Eintritt zu bearbeiten. Anschliessend müssen folgende Schritte **in dieser Reihenfolge** abgearbeitet werden. (Markdown, `- [ ]`). Fehlende Informationen müssen bei den relevanten Personen einholen.
 
-### 1. Informationsbeschaffung
+### 1. Informationsbeschaffung:
 - [ ] Nachricht an die neu eintretende Person bzw. deren rechtliche Vertretung senden und die Informationen gemäss "Anmeldeformular.pdf" abfragen.
 - [ ] Prüfung ob alle Angaben vorliegen. Bei Bedarf fehlende Informationen erfragen.
 
-### 2. Informationsverbreitung / Verarbeitung
+### 2. Vertragsausstellung:
 Sobald die Informationen vorliegen:
-- [ ] Nachricht an den Administrator mit Hinweis auf allenfalls fehlende Informationen und Instruktion, dass er einen Heimvertrag austellen soll und dieser vom Bewohnenden respektive dessen rechtlichen Vertretung zu unterzeichnen ist.
 - [ ] Nachricht an den Administrator mit Instruktion, die Bewohnerdaten in Lobos zu erfassen
-- [ ] Bewohnerstammblatt ausfüllen und anschliessend an die Apotheke am Gürbisbach senden.
-- [ ] Zuständigen Seelsorger über die Konfession des Bewohnenden informieren.
-      
-### 4. Kalendereinladungen
+- [ ] Nachricht an den Administrator mit Hinweis auf allenfalls fehlende Informationen und Instruktion, dass er einen Heimvertrag ausstellen soll und dieser vom Bewohnenden respektive dessen rechtlichen Vertretung zu unterzeichnen ist. 
+
+### 3. Interne Meldungen und Datenverarbeitung:
+Sobald ein unterzeichneter Heimvertrag vorliegt (darüber muss der Agent vom Admin informiert werden. Der Agent sollte den Admin auffordern die Info zu liefern sobald der unterzeichnete vertrag vorliegt):
+- [ ] Bewohnerstammdaten an die Apotheke am Gürbisbach senden.
+- [ ] Zuständigen Seelsorger über die Konfession des Bewohnenden informieren. 
 - [ ] Kalendereinladung für den Eintrittstag erstellen und an Wohngruppenleitung, Wohngruppe, Pflegedienstleitung und Administration senden
 - [ ] Kalendereintrag für die Angehörigenbefragung erstellen, terminiert auf 3 Monate nach dem Eintritt
 
-### 5. Mit Angehörigen zu klären
-- [ ] Rechnungsempfänger und Primärkontakt festlegen
-- [ ] Klären, ob der bisherige Hausarzt weiterhin ins Heim kommt oder der Heimarzt die Betreuung übernimmt
+### 3. Klärung von Detailfragen mit Angehörigen
+- [ ] Rechnungsempfänger definieren
+- [ ] Primärkontakt festlegen
+- [ ] Klären, ob der bisherige Hausarzt weiterhin ins Heim kommt oder der Heimarzt die Betreuung übernehmen soll
 - [ ] Kopie der Krankenkassenkarte (beidseitig) sowie die Kartennummer einreichen lassen
 - [ ] Klären, ob amtliche Post an den Bewohner/die Bewohnerin weitergeleitet werden soll
 - [ ] Bei Daueraufenthalt: Angehörige auf die Pflicht zur Adressänderung beim Einwohneramt hinweisen
 - [ ] Angehörige informieren: Wäsche wird im Haus gewaschen, Unkostenbeitrag CHF 120/Monat
 - [ ] Klären, ob ein TV-Gerät oder Radio mitgebracht wird (Kosten inkl. Strom: CHF 25/Monat)
-- [ ] Einverständnis klären, ob Fotos/Videos vom Bewohner/von der Bewohnerin gemacht und veröffentlicht werden dürfen
-- [ ] Klären, ob und in welcher Höhe Taschengeld abgegeben werden darf
 - [ ] Klären, ob ein Telefonanschluss gewünscht ist (CHF 100 einmalig, CHF 25/Monat) und ob ein Internetanschluss gewünscht ist (CHF 100 einmalig, CHF 15/Monat)
+- [ ] Einverständnis klären, ob Fotos/Videos vom Bewohner/von der Bewohnerin gemacht und veröffentlicht werden dürfen
+- [ ] Klären, ob und in welcher Höhe Taschengeld abgegeben werden darf/soll
 - [ ] Angehörige darauf hinweisen, dass Hausrat- und Haftpflichtversicherung im Heim bereits inbegriffen sind
 
 ## Wichtig
 
-- Reihenfolge einhalten: Schritt 2 (Vertrag) erst nach Schritt 1 (Informationen liegen vor); Schritt 3 (interne Meldungen) setzt einen erfassten/unterzeichneten Vertrag bzw. vorliegende Personalien voraus.
-- Kontaktangaben exakt wie oben verwenden, nicht selbst herleiten oder korrigieren, auch wenn Domain/Empfänger uneinheitlich wirken.
-- Für alle Mail-/Kalenderschritte (1, 3, 4) die passende Vorlage aus `assets/mailvorlagen.md` verwenden, mit den bekannten Angaben ausfüllen und als vollständigen, versandfertigen Text ausgeben. Fehlende Angaben als Platzhalter belassen und kurz benennen, was noch fehlt.
-- Keine rechtlich verbindlichen Aussagen zu Fristen oder Beträgen über das hier Genannte hinaus treffen.
+- Reihenfolge einhalten: Schritt 2 (Vertragsausstellung) erst nach Schritt 1 (Informationen liegen vor); Schritt 3 (interne Meldungen und Datenverarbeitung) setzt einen erfassten/unterzeichneten Vertrag bzw. vorliegende Personalien voraus.
+- Der Agent muss sicherstellen, dass er Informationen an die richtigen Personen versendet. Dies wird dadurch sichergestellt, dass der Agent - bevor er eine Nachricht an eine neue Person versendet - die Bestätigung vom Administrator einholt / respektive vom Administrator die Information einholt an wen die Nachricht gesendet werden muss.
+- Für alle Mail-/Kalenderschritte (1, 2, 3) die passende Vorlage aus `assets/mailvorlagen.md` verwenden, mit den bekannten Angaben ausfüllen und als vollständigen, versandfertigen Text ausgeben. Fehlende Angaben als Platzhalter belassen und kurz benennen, was noch fehlt.
+- Keine rechtlich verbindlichen Aussagen zu Fristen oder Beträgen über das hier Genannte hinaus treffen. Bei grösseren Unklarheiten auf den Administrator verweisen (Name aus der Konversation entnehmen ist erreichbar unter +41 78 333 75 66).
