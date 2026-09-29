@@ -6,24 +6,40 @@ Diese Vorlagen bei Bedarf mit den konkreten Angaben (Name, Datum, Zimmer usw.) f
 
 ## 1. Erstanfrage an die eintretende Person / deren rechtliche Vertretung
 
-**An:** [E-Mail eintretende Person/rechtliche Vertretung]
-**Betreff:** Aufnahme im [Heimname] – Angaben für die Anmeldung
-
 Sehr geehrte/r [Anrede Name],
 
-wir freuen uns, [Name der eintretenden Person] bei uns aufzunehmen. Damit wir die Anmeldung und den Eintritt vorbereiten können, bitten wir Sie um folgende Angaben (siehe auch beiliegendes Anmeldeformular):
+wir freuen uns, [Sie ODER Name der eintretenden Person] bei uns aufzunehmen. Damit wir die Anmeldung und den Eintritt vorbereiten können, bitten wir Sie um folgende Angaben:
 
-- Personalien (Name, Vorname, Geburtsdatum, Zivilstand, Nationalität, Bürgerort, Wohnsitzgemeinde, Konfession, Muttersprache, Kontaktdaten, AHV-Nr.)
-- Angehörige/Bezugspersonen inkl. Rolle (Rechnungsempfänger, Korrespondenzadresse, gesetzliche Vertretung, Bevollmächtigte, Beistand) und Kontaktdaten
-- Hausarzt/weitere behandelnde Ärzte
-- Kopie der Krankenkassenkarte (beidseitig)
+Personalien:
+- Name 
+- Vorname
+- Geburtsdatum 
+- Zivilstand 
+- Nationalität
+- Bürgerort
+- Wohnsitzgemeinde
+- Konfession 
+- Muttersprache
+- Kontaktdaten
+- AHV-Nummer
+
+Angehörige / Bezugspersonen:
+- Rechnungsempfänger
+- Korrespondenzadresse
+- Gesetzliche Vertretung
+- Ansprechperson für medizinische Anliegen
+
+Ärzte:
+- Hausarzt
+- weitere behandelnde Ärzte
+
 - Angaben zu Ergänzungsleistungen/Hilflosenentschädigung
-- Aufenthalt vor dem Eintritt (zu Hause mit/ohne Spitex, Spital, Klinik, anderes Heim)
-- Vorhandensein von Patientenverfügung, Vorsorgeauftrag und/oder Vollmacht sowie Aufbewahrungsort
-- Gewünschter Eintrittstermin (dringend/vorsorglich) und Zimmerwunsch (1er/2er/3er)
-- Allfällige Wünsche oder Bemerkungen
+- Wo hielt sich die Person vor dem Eintritt auf? (zu Hause mit/ohne Spitex, Spital, Klinik, anderes Heim)
+- Liegt eine Patientenverfügung vor und wo wird diese Aufbewahrt?
+- Liegt ein Vorsorgeauftrag / eine Vollmacht vor und wo wird diese aufbewahrt?
+- Gewünschter Eintrittstermin und Zimmerwunsch (1er/2er/3er)
 
-Das ausgefüllte Formular sowie die Kopie der Krankenkassenkarte senden Sie uns bitte bis [Datum] zurück.
+Die Daten senden Sie uns bitte bis [Datum] zurück.
 
 Für Rückfragen stehen wir Ihnen gerne zur Verfügung.
 
@@ -33,9 +49,6 @@ Freundliche Grüsse
 ---
 
 ## 2. Mail an Administration – Erfassung in Lobos
-
-**An:** office@sanascreen.com
-**Betreff:** Neuerfassung Bewohner/in in Lobos – [Name, Vorname]
 
 Guten Tag
 
@@ -50,10 +63,7 @@ Besten Dank und freundliche Grüsse
 
 ## 3. Bewohnerstammblatt weiterleiten
 
-**An:** lukas.eichelberger@outlook.com
-**Betreff:** Bewohnerstammblatt – [Name, Vorname]
-
-Guten Tag Herr Eichelberger
+Guten Tag [Anrede Name]
 
 Anbei das Bewohnerstammblatt von [Name, Vorname] (Eintritt am [Datum]) zu Ihrer Kenntnisnahme/Ablage.
 
@@ -64,10 +74,7 @@ Freundliche Grüsse
 
 ## 4. Konfession melden
 
-**An:** lukas.eichelberger.sanascreen@gmail.com
-**Betreff:** Konfession – [Name, Vorname]
-
-Guten Tag Herr Eichelberger
+Guten Tag [Anrede, Name]
 
 Konfession von [Name, Vorname] (Eintritt am [Datum]): [Konfession]
 
@@ -80,10 +87,9 @@ Freundliche Grüsse
 
 **Titel:** Eintritt [Name, Vorname] – Wohngruppe [Wohngruppe]
 **Datum/Zeit:** [Datum], [Uhrzeit]
-**Teilnehmende:** Wohngruppenleitung, Wohngruppe [Wohngruppe], Pflegedienstleitung, Administration
 
 **Beschreibung:**
-[Name, Vorname] zieht am [Datum] in Zimmer [Zimmernummer/-kategorie] ein. Bitte für den Empfang und die Eingewöhnung bereithalten.
+[Name, Vorname] zieht am [Datum] in Zimmer [Zimmernummer/-kategorie] ein. Bitte im Kalender Eintragen.
 
 ---
 
@@ -93,4 +99,4 @@ Freundliche Grüsse
 **Datum:** [Eintrittsdatum + 3 Monate]
 
 **Beschreibung:**
-Drei Monate nach Eintritt von [Name, Vorname] (Eintritt am [Datum]) Angehörigenbefragung zur Eingewöhnung durchführen.
+Drei Monate nach Eintritt von [Name, Vorname] (Eintritt am [Datum]) Angehörigenbefragung zur Eingewöhnung durchführen. Bitte im Kalender eintragen.
