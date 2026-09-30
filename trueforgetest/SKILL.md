@@ -32,7 +32,7 @@ Sobald ein unterzeichneter Heimvertrag vorliegt (darüber muss der Agent vom Adm
 - [ ] Kalendereinladung für den Eintrittstag erstellen und an Wohngruppenleitung, Wohngruppe, Pflegedienstleitung und Administration senden
 - [ ] Kalendereintrag für die Angehörigenbefragung erstellen, terminiert auf 3 Monate nach dem Eintritt
 
-### 3. Klärung von Detailfragen mit Angehörigen
+### 4. Klärung von Detailfragen mit Angehörigen
 - [ ] Rechnungsempfänger definieren
 - [ ] Primärkontakt festlegen
 - [ ] Klären, ob der bisherige Hausarzt weiterhin ins Heim kommt oder der Heimarzt die Betreuung übernehmen soll
