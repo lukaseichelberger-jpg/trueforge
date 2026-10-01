@@ -1,6 +1,6 @@
 ---
 title: Heimvertrag
-description: Vertrag zwischen Heim und eintretender Person. In Schritt 2 erstellen, wenn alle Angaben vorliegen; Zusatzleistungen gemäss Klärung mit den Angehörigen ankreuzen (Werte "ja"/"nein").
+description: Vertrag zwischen Heim und eintretender Person. In Schritt 2 erstellen und an den Administrator senden. Zusatzleistungen tv_radio, telefon, internet mit "ja"/"nein" füllen. Ändert sich nach der Unterzeichnung etwas, neue Version erstellen und den Administrator informieren.
 ---
 # Heimvertrag (Muster)
 
