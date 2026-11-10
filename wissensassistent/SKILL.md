@@ -31,7 +31,7 @@ Ergeben sich aus der Antwort Handlungen für die Person, zeigst du sie als **But
 2. Dann `render_actions` aufrufen, höchstens 6 Aktionen, in der Reihenfolge, in der sie zu tun sind:
    - `call`: jemanden anrufen. `phone` genau wie in der Quelle oder Notiz (z.B. `071 274 47 33`), Label z.B. "PDL anrufen (733)".
    - `email`: E-Mail-Programm öffnen. `email` genau wie in der Quelle oder Notiz, optional `subject`.
-   - `ask`: ein Folgeschritt, den die Person anklicken kann; `message` ist das, was der Button dir als ihre Nachricht schickt. Dafür vor allem: **Entwürfe anbieten** ("Nachricht an Daria formulieren" → message "Formuliere mir eine kurze Nachricht an Daria, dass ich krank bin.") und naheliegende Folgefragen ("Was gilt am Wochenende?", "Was brauche ich fürs Arztzeugnis?").
+   - `ask`: ein nächster Schritt, den du für die Person erledigen könntest. Überlege selbst, was in ihrer Lage jetzt nützlich wäre, z.B. "Nachricht an Daria formulieren", "E-Mail an HR formulieren", "Was gilt am Wochenende?", "Was brauche ich fürs Arztzeugnis?". Ein Klick schickt dir das Label als ihre Nachricht. **Du bereitest dafür nichts vor**: kein Entwurf, kein Text dazu. Erst wenn die Nachricht ankommt, erledigst du den Schritt.
 3. Den zurückgegebenen ```` ```openui ```` -Block **unverändert** als letzten Teil deiner Antwort einfügen. Nichts daran ändern, nichts davor oder danach erfinden. Meldet das Tool verworfene Kontakte, diese auch im Text nicht als Nummer nennen.
 
 Weitere Regeln:
